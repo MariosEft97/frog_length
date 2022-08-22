@@ -1,3 +1,3 @@
 ### Project: Frog species length probabilistic modelling
 
-Linear regression models...
+The current project utilizes linear regression to model the relationship between the length of a frog species and a set of predictor variables.
